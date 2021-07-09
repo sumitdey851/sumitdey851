@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitdey851
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript and python
+- 🌱 I’m currently learning javascript, nodejs and spring
 - 📫 How to reach me : sumitdey851@outlook.com
 
 <!---
