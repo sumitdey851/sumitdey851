@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitdey851
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript, nodejs and spring
+- 👀 I’m a Fullstack JS developer
+- 🌱 I’m currently learning NestJS, Docker & Flutter
 - 📫 How to reach me : sumitdey851@outlook.com
 
 <!---
